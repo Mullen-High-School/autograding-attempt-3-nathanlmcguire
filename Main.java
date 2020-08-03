@@ -9,6 +9,6 @@ public class Main {
    }
    
    static public int test() {
-       return 4;
+       return 10;
     }
 }
